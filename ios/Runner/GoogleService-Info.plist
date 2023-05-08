@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>860446456568-1e799pds0ffiv134fesi80mn9ddad0vs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.860446456568-1e799pds0ffiv134fesi80mn9ddad0vs</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>860446456568-3pei2fp1254n57oolf7cdf3vgelsal0m.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCf0Qt1Z1hVzmZvcyjj75TSEPRDaOnhwT4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>860446456568</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.judibotai.io</string>
+	<key>PROJECT_ID</key>
+	<string>socialmagic-35b36</string>
+	<key>STORAGE_BUCKET</key>
+	<string>socialmagic-35b36.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:860446456568:ios:16e37f14ab8a0c7d53990d</string>
+	<key>DATABASE_URL</key>
+	<string>https://socialmagic-35b36-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
